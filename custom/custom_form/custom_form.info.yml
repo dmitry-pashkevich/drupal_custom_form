@@ -1,0 +1,4 @@
+name: 'Custom Form'
+description: 'Custom Form for Learn'
+core: 8.x
+type: module
